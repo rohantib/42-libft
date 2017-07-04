@@ -10,6 +10,7 @@ FILESC =	ft_atoi.c \
 			ft_sqrt.c \
 			ft_strcmp.c \
 			ft_strcpy.c \
+			ft_strdup.c \
 			ft_strlen.c \
 			ft_strlowcase.c \
 			ft_strncmp.c \
@@ -30,6 +31,7 @@ FILESO =	ft_atoi.o \
 			ft_sqrt.o \
 			ft_strcmp.o \
 			ft_strcpy.o \
+			ft_strdup.o \
 			ft_strlen.o \
 			ft_strlowcase.o \
 			ft_strncmp.o \
