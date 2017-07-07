@@ -44,4 +44,6 @@ int ft_in_range(char lower_bound, char upper_bound, char character);
 
 char *ft_strdup(char *src);
 
+char * ft_strtrim(char *s);
+
 #endif
