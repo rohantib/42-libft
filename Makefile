@@ -17,6 +17,7 @@ NAME = libft.a
 # 			ft_strncpy.c \
 # 			ft_strrev.c \
 # 			ft_strstr.c \
+#			ft_strtrim.c \
 # 			ft_strupcase.c \
 # 			ft_swap.c 
 		
@@ -38,6 +39,7 @@ NAME = libft.a
 # 			ft_strncpy.o \
 # 			ft_strrev.o \
 # 			ft_strstr.o \
+#			ft_strtrim.o \
 # 			ft_strupcase.o \
 # 			ft_swap.o 
 
